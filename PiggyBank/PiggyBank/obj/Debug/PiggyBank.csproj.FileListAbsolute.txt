@@ -1,0 +1,9 @@
+C:\Users\assanu\Desktop\zt eğitim\backend\FinalProject\PiggyBank\PiggyBank\bin\Debug\PiggyBank.exe.config
+C:\Users\assanu\Desktop\zt eğitim\backend\FinalProject\PiggyBank\PiggyBank\bin\Debug\PiggyBank.exe
+C:\Users\assanu\Desktop\zt eğitim\backend\FinalProject\PiggyBank\PiggyBank\bin\Debug\PiggyBank.pdb
+C:\Users\assanu\Desktop\zt eğitim\backend\FinalProject\PiggyBank\PiggyBank\obj\Debug\PiggyBank.csprojAssemblyReference.cache
+C:\Users\assanu\Desktop\zt eğitim\backend\FinalProject\PiggyBank\PiggyBank\obj\Debug\PiggyBank.Properties.Resources.resources
+C:\Users\assanu\Desktop\zt eğitim\backend\FinalProject\PiggyBank\PiggyBank\obj\Debug\PiggyBank.csproj.GenerateResource.cache
+C:\Users\assanu\Desktop\zt eğitim\backend\FinalProject\PiggyBank\PiggyBank\obj\Debug\PiggyBank.exe
+C:\Users\assanu\Desktop\zt eğitim\backend\FinalProject\PiggyBank\PiggyBank\obj\Debug\PiggyBank.pdb
+C:\Users\assanu\Desktop\zt eğitim\backend\FinalProject\PiggyBank\PiggyBank\obj\Debug\PiggyBank.PiggyBank.resources
